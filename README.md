@@ -1,2 +1,2 @@
-# aws_tags_mirror
-# aws_tags_mirror
+# AWS tags mirror/copy between two EC2 instances
+### this script im dedicated to my naughty juinor 
